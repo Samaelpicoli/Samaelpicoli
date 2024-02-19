@@ -1,16 +1,49 @@
-### Hi there 👋
 
-<!--
-**Samaelpicoli/Samaelpicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Meu nome é Samael Muniz Picoli 👋
 
-Here are some ideas to get you started:
+## Sobre Mim: Entusiasta Por Tecnologia, Em Constante Aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou sempre buscando aprimorar minhas habilidades e aprender novas técnicas para criar soluções eficientes. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis.
+
+## Tecnologias e Ferramentas
+
+- **Linguagens de Programação:** Python
+- **Bibliotecas e Frameworks:**
+  - Pandas
+  - Selenium
+  - Requests
+  - Plugins BotCity
+  - Openpyxl
+  - Pyautogui
+- **Outras Tecnologias:**
+  - UiPath (ReFramework RPA)
+
+
+![Samael GitHub stats](https://github-readme-stats.vercel.app/api?username=Samaelpicoli&show_icons=true&theme=white) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samaelpicoli)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que eu utilizo no meu dia a dia:
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div><br/>
+
+
+## Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samael-muniz-picoli-5b317a1bb/)
+###
+
+
+# Repositórios:
+
+<a href="https://github.com/Samaelpicoli/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samaelpicoli&repo=RPA_Challenge" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samaelpicoli&repo=Online_Grocery_Ordering" />
+</a>
