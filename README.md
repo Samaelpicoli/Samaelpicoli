@@ -6,6 +6,8 @@
 
 Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. 
 
+Me interesso muito em aprender sobre Dados, Machine Learning e Back-End.
+
 ## Tecnologias e Ferramentas
 ### Atualmente trabalho com:
 - **Linguagens de Programação:** Python
