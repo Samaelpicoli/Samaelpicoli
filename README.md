@@ -7,7 +7,7 @@
 Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. 
 
 ## Tecnologias e Ferramentas
-
+### Atualmente trabalho com:
 - **Linguagens de Programação:** Python
 - **Bibliotecas e Frameworks:**
   - Pandas
@@ -18,6 +18,12 @@ Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos 
   - Pyautogui
 - **Outras Tecnologias:**
   - UiPath (ReFramework RPA)
+
+### Atualmente estou aprendendo:
+- **Linguagens de Programação:** 
+    - Java
+    - Javascript
+    - R
 
 
 ![Samael GitHub stats](https://github-readme-stats.vercel.app/api?username=Samaelpicoli&show_icons=true&theme=white) 
