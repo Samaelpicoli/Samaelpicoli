@@ -4,7 +4,7 @@
 ## Sobre Mim: Entusiasta Por Tecnologia, Em Constante Aprendizado
 
 
-Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou sempre buscando aprimorar minhas habilidades e aprender novas técnicas para criar soluções eficientes. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis.
+Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. 
 
 ## Tecnologias e Ferramentas
 
