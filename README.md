@@ -49,9 +49,9 @@ Também me interesso muito em aprender sobre a área de Dados, Machine Learning 
 
 # Repositórios:
 
-<a href="https://github.com/Samaelpicoli/github-readme-stats">
+<a href="https://github.com/Samaelpicoli/RPA_Challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samaelpicoli&repo=RPA_Challenge" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Samaelpicoli/Online_Grocery_Ordering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samaelpicoli&repo=Online_Grocery_Ordering" />
 </a>
