@@ -4,8 +4,7 @@
 ## Sobre Mim:
 
 
-Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. Atualmente estou cursando o 5° semestre da faculdade de Análise e Desenvolvimento de Sistemas no IFRS - Campus Sertão.
-
+Sou um desenvolvedor RPA 🤖, com experiência em automatização de processos utilizando a linguagem Python. Estou constantemente aprendendo e buscando maneiras de criar soluções eficazes e confiáveis. Com uma paixão pela automação, meu objetivo é criar soluções que simplifiquem tarefas complexas com eficiência. Sou formado em Análise e Desenvolvimento de Sistemas pelo IFRS - Campus Sertão.
 Também me interesso muito em aprender sobre a área de Dados, Machine Learning e Back-End.
 
 ## Tecnologias e Ferramentas
